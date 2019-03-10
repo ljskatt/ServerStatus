@@ -1,7 +1,7 @@
 ServerStatus
 ============
 
-ServerStatus is based off [BlueVM's](http://uptime.bluevm.com/) Uptime Checker script, download not available.
+ServerStatus is based off [BlueVM's](http://bluevm.com/) Uptime Checker script.
 Modified by [mojeda](https://github.com/mojeda/ServerStatus)
 Upgraded to support PHP7 by [ljskatt](https://github.com/ljskatt)
 
