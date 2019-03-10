@@ -2,8 +2,9 @@ ServerStatus
 ============
 
 ServerStatus is based off [BlueVM's](http://bluevm.com/) Uptime Checker script.
-Modified by [mojeda](https://github.com/mojeda/ServerStatus)
-Upgraded to support PHP7 by [ljskatt](https://github.com/ljskatt)
+
+Modified by [mojeda](https://github.com/mojeda/ServerStatus).<br>
+Upgraded to support PHP7 by [ljskatt](https://github.com/ljskatt).
 
 It uses Bootstrap for theming and progress bars.
 
