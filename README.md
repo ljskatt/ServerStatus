@@ -1,11 +1,9 @@
-Community
-============
-Server Status now has a community forum open to everyone. https://www.pilabs.io/forum/
-
 ServerStatus
 ============
 
-ServerStatus is based off [BlueVM's](http://uptime.bluevm.com/) Uptime Checker script, [original download and information](http://www.lowendtalk.com/discussion/comment/169690#Comment_169690).
+ServerStatus is based off [BlueVM's](http://uptime.bluevm.com/) Uptime Checker script, download not available.
+Modified by [mojeda](https://github.com/mojeda/ServerStatus)
+Upgraded to support PHP7 by [ljskatt](https://github.com/ljskatt)
 
 It uses Bootstrap for theming and progress bars.
 
@@ -13,8 +11,8 @@ You can currently see Load, RAM (free), HDD (free) statistics, and if it is onli
 
 Screenshot
 ============
-![Screenshot](http://www.mojeda.com/wp/wp-content/2013/04/serverupbigthemes.png)
-![Mobile Screenshot](http://www.mojeda.com/wp/wp-content/2013/04/serverupthemes.png)
+![Screenshot](https://cdn.mchost.no/github-q26fyh/serverstatus1.png)
+![Mobile Screenshot](https://cdn.mchost.no/github-q26fyh/serverstatus2.png)
 
 Installation
 ============
