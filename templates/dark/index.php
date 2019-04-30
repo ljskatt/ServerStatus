@@ -3,7 +3,7 @@
 	<head>
 		<title>ServerStatus</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+		<link href="<?php echo $template; ?>css/bootstrap-combined.min.css" rel="stylesheet">
 		<link href="<?php echo $template; ?>css/custom.css" rel="stylesheet">
 		<style>
 			body { padding-top: 60px; }
@@ -45,8 +45,8 @@
 	<div class="container">
 		<p style="text-align: center; font-size: 10px;"><a href="https://github.com/ljskatt/ServerStatus-PHP7">ServerStatus</a> by <a href="https://github.com/ljskatt">ljskatt</a></p>
 	</div>
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-	<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+	<script src="<?php echo $template; ?>js/jquery.min.js"></script>
+	<script src="<?php echo $template; ?>js/bootstrap.min.js"></script>
 	<?php echo $sJavascript; ?>
 </body>
 </html>
